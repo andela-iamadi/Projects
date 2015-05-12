@@ -6,7 +6,7 @@ def wordCount(txt_to_count)
 	end
 
 	frequency.sort_by { |word, count| count }
-
+ 	somestring = "https://github.com/tru2cent/AuxProjects.git"
 	return frequency
 
 end
